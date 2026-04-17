@@ -1,0 +1,5 @@
+The script relies on standard libraries that are built directly into Python.
+• httpx: This is an external library that sends requests to tge JSON Placeholder API.
+• argparse: Tgis is a built in library in python that handles the CLI(Command Line Interface) allowing users to type in commands.
+• json: This is a built in library that allows formatting of data coming back from the API so it looks clean.
+• typing: This is also built into python used for type hinting which helps developers read code better.
